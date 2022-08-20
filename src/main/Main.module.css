@@ -1,0 +1,24 @@
+.main{
+    background: #e8c5c5;
+    height: 100vh;
+}
+
+.container{
+    height: 100%;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.greetings{
+    width: 300px;
+    background: rgba(185, 179, 179, 0.97);
+}
+
+.photo{
+    width: 300px;
+    height: 500px;
+    background: rgba(185, 179, 179, 0.97);
+}

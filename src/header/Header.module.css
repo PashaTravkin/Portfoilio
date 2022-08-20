@@ -1,0 +1,13 @@
+.header{
+    background: #83d5d5;
+    height: 80px;
+    display: flex;
+}
+
+.container{
+    width: 80%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin: 0 auto;
+}
