@@ -1,0 +1,31 @@
+.works {
+    height: 100vh;
+    background-color: #e7a2d4;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.container{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin: 0 auto;
+    border: 1px solid;
+    flex-wrap: wrap;
+}
+
+.title{
+background-color: #d0cccc;
+}
+
+.containerForWorks{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    border: 1px solid;
+    flex-wrap: wrap;
+
+}
