@@ -9,7 +9,7 @@ const Contacts = () => {
                 <form id={'form'} action="URL" className={s.form}>
                     <input placeholder={'your Telegram or another messengers '} type="text"/>
                     <input placeholder={'your email'} type="text"/>
-                    <textarea placeholder={'enter your preposition'} cols="30" rows="10"></textarea>
+                    <textarea className={s.textarea} placeholder={'enter your preposition'} ></textarea>
                 </form>
                 <button form={'form'} className={s.button}>Send</button>
             </div>

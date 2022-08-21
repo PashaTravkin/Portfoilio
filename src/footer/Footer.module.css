@@ -25,7 +25,7 @@
 }
 
 .messengers{
-    width: 85%;
+    width: 55%;
     border: 1px solid red;
     display: flex;
     justify-content: space-between;
@@ -35,7 +35,7 @@
 .messenger{
     background-color: #83d5d5;
     height: 40px;
-    width: 60px;
+    width: 35px;
 }
 
 .rights{
