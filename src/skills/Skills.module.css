@@ -1,4 +1,31 @@
 .skills {
     height: 100vh;
     background-color: #8aefd7;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.container{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin: 0 auto;
+    border: 1px solid;
+    flex-wrap: wrap;
+}
+
+.title{
+background-color: #d0cccc;
+}
+
+.containerForSkills{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    border: 1px solid;
+    flex-wrap: wrap;
+
 }
